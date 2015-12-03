@@ -1,6 +1,6 @@
 public class NewFile
 {
-
+// added a comment
     public static void foo(int... a) {}
 
     public static void main(String[] argv)
